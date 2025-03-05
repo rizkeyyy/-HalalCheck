@@ -1,0 +1,7 @@
+streamlit
+tensorflow==2.13.0
+numpy
+pandas
+Pillow
+google-cloud-vision
+nltk==3.6.7

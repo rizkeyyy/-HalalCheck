@@ -1,0 +1,112 @@
+Kode E,Nama Bahan,Status
+e322,Emulsifier,Doubtful
+e101,Riboflavin/Lactofavin/Vitamin B2 *,Doubtful
+e140,Chlorophyll (C.I. 75810)*,Doubtful
+e141,Copper Complexes of Chlorophyll (C.I. 75810)*,Doubtful
+e153,Carbon Black/Vegetable Carbon*,Doubtful
+e160a,Alpha-/Beta-/Gamma-Carotene (C.I. 75130)*,Doubtful
+e160b,Annatto/Bixin/Norbixin (C.I. 75120)*,Doubtful
+e160c,Capsanthin/Capsorubin/Paprika extract*,Doubtful
+e160d,Lycopene (C.I. 75125)*,Doubtful
+e160e,Beta-apo-8'-carotenal/Beta-8’-apocarotenal*,Doubtful
+e160f,Ethyl ester of Beta-apo-8-carotenoic acid*,Doubtful
+e161a,Flavoxanthin*,Doubtful
+e161b,Lutein*,Doubtful
+e161c,Cryptoxanthin*,Doubtful
+e161d,Rubixanthin*,Doubtful
+e161e,Violaxanthin*,Doubtful
+e161f,Rhodoxanthin*,Doubtful
+e161g,Canthaxanthin (C.I. 40850)*,Doubtful
+e163,Anthocyanins*,Doubtful
+e170,Calcium Carbonate/Chalk (C.I. 77220)*,Doubtful
+e234,Nisin*,Doubtful
+e235,Natamycin/Pimaricin*,Doubtful
+e252,Potassium Nitrate/Saltpetre*,Doubtful
+e260,Acetic Acid*,Doubtful
+e270,Lactic Acid*,Doubtful
+e280,Propionic Acid*,Doubtful
+e281,Sodium Propionate*,Doubtful
+e282,Calcium Propionate*,Doubtful
+e283,Potassium Propionate*,Doubtful
+e297,Fumaric Acid*,Doubtful
+e300,L-Ascorbic Acid/Vitamin C*,Doubtful
+e304,Ascorbyl Palmitate*,Doubtful
+e317,Erythorbic Acid/Iso-ascorbic Acid*,Doubtful
+e318,Sodium Erythorbate/Sodium Iso-Ascorbate*,Doubtful
+e319,tert-Butylhydroquinone/TBHQ*,Doubtful
+e320,Butylated Hydroxyanisole (BHA)*,Doubtful
+e321,Butylated Hydroxytoluene (BHT)*,Doubtful
+e322,Lecithins*,Doubtful
+e325,Sodium Lactate*,Doubtful
+e326,Potassium Lactate*,Doubtful
+e327,Calcium Lactate*,Doubtful
+e328,Ammonium Lactate*,Doubtful
+e329,Magnesium Lactate*,Doubtful
+e330,Citric Acid*,Doubtful
+e331,Sodium Citrates*,Doubtful
+e332,Potassium Citrates*,Doubtful
+e333,Calcium Citrates*,Doubtful
+e334,Tartaric Acid*,Doubtful
+e335,Sodium Tartrate*,Doubtful
+e336,Potassium Tartrate/Potassium Hydrogen Tartrate/Cream of Tartar *,Doubtful
+e337,Potassium Sodium Tartrate*,Doubtful
+e353,Metatartaric Acid*,Doubtful
+e363,Succinic Acid*,Doubtful
+e365,Sodium Fumarate*,Doubtful
+e366,Potassium Fumarate*,Doubtful
+e367,Calcium Fumarate*,Doubtful
+e380,Triammonium Citrate*,Doubtful
+e381,Ammonium Ferric Citrate*,Doubtful
+e415,Xanthan Gum/Corn Sugar Gum*,Doubtful
+e415,Xanthan Gum,Doubtful
+e420,Sorbitol/Sorbitol Syrup*,Doubtful
+e422,Glycerol/Glycerin*,Doubtful
+e430,Polyoxyethylene (8) Stearate*,Doubtful
+e431,Polyoxyethylene (40) Stearate*,Doubtful
+e432,Polyoxyethylene (20) Sorbitan Monolaurate/Polysorbate 20/Tween 20*,Doubtful
+e433,Polyoxyethylene (20) Sorbitan Mono- Oleate/Polysorbate 80/Tween 80*,Doubtful
+e434,Polyoxyethylene (20) Sorbitan Monopalmitate/Polysorbate 40/Tween 40*,Doubtful
+e435,Polyoxyethylene (20) Sorbitan Monostearate/Polysorbate 60/Tween 60*,Doubtful
+e436,Polyoxyethylene (20) Sorbitan Tristearate/Polysorbate 65/Tween 65*,Doubtful
+e441,Gelatine*,Doubtful
+e470,"Sodium, Potassium and Calcium Salts of Fatty Acids*",Doubtful
+e471,Mono-and Diglycerides of Fatty Acids*,Doubtful
+e472,Various Esters of Glycerol*,Doubtful
+e473,Sucrose Esters of Fatty Acids*,Doubtful
+e474,Sucroglycerides*,Doubtful
+e475,Polyglycerol Esters of Fatty Acids*,Doubtful
+e476,Polyglycerol Polyricinoleate*,Doubtful
+e477,"Propane-1,2-Diol Esters of Fatty Acids*",Doubtful
+e481,Sodium Stearoyl-2-Lactylate*,Doubtful
+e482,Calcium Stearoyl-2-Lactylate*,Doubtful
+e483,Stearyl Tartrate*,Doubtful
+e491,Sorbitan Monostearate*,Doubtful
+e492,Sorbitan Tristearate/Span 65*,Doubtful
+e493,Sorbitan Monolaurate/Span 20*,Doubtful
+e494,Sorbitan Monooleate/Span 80*,Doubtful
+e495,Sorbitan Monopalmitate/Span 40*,Doubtful
+e542,Edible Bone Phosphate/Bone Meal*,Doubtful
+e544,Calcium Polyphosphates*,Doubtful
+e570,Stearic Acid*,Doubtful
+e572,Magnesium Stearate*,Doubtful
+e575,Glucono Delta-Lactone*,Doubtful
+e620,L-Glutamic Acid*,Doubtful
+e621,Monosodium Glutamate/MSG*,Doubtful
+e622,Monopotassium Glutamate*,Doubtful
+e623,Calcium Glutamate*,Doubtful
+e627,Disodium Guanylate*,Doubtful
+e631,Disodium Inosinate*,Doubtful
+e635,Sodium 5'-Ribonucleotide*,Doubtful
+e901,Beeswax*,Doubtful
+e904,Shellac*,Doubtful
+e920,L-Cysteine Hydrochloride*,Doubtful
+e951,Aspartame/Nutrasweet*,Doubtful
+e965,Hydrogenated Glucose Syrup*,Doubtful
+e1200,Polydextrose*,Doubtful
+e1405,Enzyme-treated Starch*,Doubtful
+e1405,Enzymes,Doubtful
+e1405,(Cultured Milk Salt Enzymes),Doubtful
+e1510,Ethyl Alcohol/Ethanol*,Doubtful
+e1518,Triacetin/Glycerol Triacetate*,Doubtful
+e1520,Propylene Glycol*,Doubtful
+
