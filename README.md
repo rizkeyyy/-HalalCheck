@@ -84,10 +84,4 @@ Coba Aplikasi di <a href="https://huggingface.co/spaces/rizkystiawanp/HalalCheck
 🔸 Pengguna disarankan untuk tetap memeriksa sertifikasi halal resmi dari otoritas terkait sebelum mengonsumsi produk.
 
 ## Dikembangkan Oleh
-**[Rizky SP](https://github.com/rizkystiawanp)** : Data Scientist <br>
-**[Dzaki A.](https://github.com/DzakiAF)** : Data Scientist <br>
-**[Dwi H.](https://github.com/dwihst)** : Data Analyst <br>
-**[Aditya W.](https://github.com/bUtekwijay)** : Data Engineer <br>
-**[Rizki R.](https://github.com/rizkeyyy)** : Data Engineer
-
-[Lihat presentasi sebagai PDF](presentation.pdf)
+**[Rizki R.](https://github.com/rizkeyyy)**
